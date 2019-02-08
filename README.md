@@ -1,4 +1,4 @@
-# PyGame
+# RPG - PyGame
 
 A python game using pygame.
 
@@ -13,3 +13,6 @@ brew install python3
 ```bash
 python3 -m pip install -U pygame --user
 ```
+
+## Resources
+[pyGame](https://www.pygame.org/news)
