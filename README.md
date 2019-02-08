@@ -1,6 +1,6 @@
 # RPG - PyGame
 
-A python game using pygame.
+A Python game using pygame using course material.
 
 ## Setup
 
