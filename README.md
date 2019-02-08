@@ -11,5 +11,5 @@ brew install python3
 
 2. Install pygame with pip:
 ```bash
-pip install pygame
+python3 -m pip install -U pygame --user
 ```
