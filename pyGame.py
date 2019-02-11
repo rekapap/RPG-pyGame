@@ -73,7 +73,8 @@ while not is_game_over:
                     is_game_over = True
                 print(event)
 
-            pygame.draw.rect(game_screen, BLACK_COLOR, pygame.Rect(200, 200, 40, 40))
+            pygame.draw.rect(game_screen, BLACK_COLOR, [350, 350, 100, 100])
+            pygame.draw.circle(game_screen, BLACK_COLOR, (400, 300), 50)
 
             # Update all game graphics
             pygame.display.update()
