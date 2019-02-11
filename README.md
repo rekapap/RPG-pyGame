@@ -4,9 +4,9 @@ A Python game using pygame using course material.
 
 ## Setup
 
-1. Install Python 3 with brew:
-```bash
-brew install python3
+1. Go to Python website and download Python 3:
+```text
+https://www.python.org/downloads/
 ```
 
 2. Install pygame with pip:
