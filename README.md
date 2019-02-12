@@ -4,7 +4,7 @@ A Python game using pygame using course material.
 
 ## Setup
 
-1. Go to Python website and download Python 3:
+1. Go to Python website and download Python 3, and follow the instructionss from there:
 ```text
 https://www.python.org/downloads/
 ```
