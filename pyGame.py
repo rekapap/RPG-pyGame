@@ -37,6 +37,7 @@ class Game:
                         direction = 0
 
                 print(event)
+                self.game_screen.fill(WHITE_COLOR)
                 player_character.move(direction)
                 player_character.draw(self.game_screen)
 
